@@ -1,1 +1,0 @@
-# vize_odevc
